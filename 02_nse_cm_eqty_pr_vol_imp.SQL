@@ -8,7 +8,6 @@ ANALYZE TABLE st_eqty_dlvry_pos;
 ANALYZE TABLE eqty_dlvry_pos;
 ANALYZE TABLE fii_dii_inv;
 -- --------------------building database for nse cm---------------------------------
-
 -- import
 mysql --local-infile=1 -uroot -p
 Mypass@123
