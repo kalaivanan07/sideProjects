@@ -72,4 +72,3 @@ def solve():
                 return
     print(np.matrix(grid))
 
-
